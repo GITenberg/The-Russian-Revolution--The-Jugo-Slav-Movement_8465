@@ -1,0 +1,47 @@
+_repo: The-Russian-Revolution--The-Jugo-Slav-Movement_8465
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harper, Samuel N. (Samuel Northrup)
+    alias: Harper, Samuel Northrup
+    birthdate: 1882
+    deathdate: 1943
+    gutenberg_agent_id: '5157'
+    url: http://www.gutenberg.org/2009/agents/5157
+  - agent_name: Kerner, Robert Joseph
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '5159'
+    url: http://www.gutenberg.org/2009/agents/5159
+  - agent_name: Golder, Frank Alfred
+    alias: Golder, F. A. (Frank Alfred)
+    birthdate: 1877
+    deathdate: 1929
+    gutenberg_agent_id: '5158'
+    url: http://www.gutenberg.org/2009/agents/5158
+  - agent_name: Petrunkevitch, Alexander
+    aliases:
+    - Petrunkewitsch, Alexander
+    - Petrunkevitch, Alexander Ivanovitch
+    birthdate: 1875
+    deathdate: 1964
+    gutenberg_agent_id: '5156'
+    url: http://www.gutenberg.org/2009/agents/5156
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Petrunkevitch
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yugoslavs'
+- !lcsh 'Soviet Union -- Politics and government -- 1917-1936'
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- GITenberg
+title: The Russian Revolution; The Jugo-Slav Movement
+url: http://www.gutenberg.org/ebooks/8465
